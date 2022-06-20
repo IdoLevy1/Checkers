@@ -1,0 +1,1 @@
+This is a windows application of checkers game implemented in c#
